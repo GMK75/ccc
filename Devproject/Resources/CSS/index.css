@@ -1,0 +1,40 @@
+.banner {
+    background-color: rgb(43, 45, 49);
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+#Childhood {
+    height: 400px;
+    width: 700px;
+}
+
+#Grandp {
+    color:rgb(7, 7, 7);
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.mainheading {
+    font-size: 80px;
+}
+
+#Quote {
+    font-size: 20px;
+
+}
+
+.upsize {
+    font-size: 18px;
+}
+
+#sub {
+    font-size: 25px;
+}
+
+.reasons {
+    font-size: 22px;
+}
